@@ -1,0 +1,140 @@
+plot_id,sp_code,dbh,notes,species_common,species_scientific,native
+1,THPL,2.5,,western redcedar,Thuja plicata,yes
+1,ACMA,82.5,,big leaf maple,Acer macrophyllum,yes
+1,ACMA,23.8,,big leaf maple,Acer macrophyllum,yes
+1,TSHE,0.5,,western hemlock,Tsuga heterophylla,yes
+1,TSHE,0.5,,western hemlock,Tsuga heterophylla,yes
+1,ACMA,9.6,,big leaf maple,Acer macrophyllum,yes
+2,SOAU,2,,rowan,Sorbus aucuparia,no
+2,TSHE,20.5,,western hemlock,Tsuga heterophylla,yes
+2,ACMA,57.9,,big leaf maple,Acer macrophyllum,yes
+2,ACMA,9.2,,big leaf maple,Acer macrophyllum,yes
+2,ACMA,9.2,,big leaf maple,Acer macrophyllum,yes
+2,TSHE,21.9,,western hemlock,Tsuga heterophylla,yes
+2,TSHE,0.5,,western hemlock,Tsuga heterophylla,yes
+2,TSHE,15.6,,western hemlock,Tsuga heterophylla,yes
+2,SOAU,2.5,,rowan,Sorbus aucuparia,no
+3,ACMA,6,,big leaf maple,Acer macrophyllum,yes
+3,ACMA,7,,big leaf maple,Acer macrophyllum,yes
+3,PSME,99.2,,Douglas fir,Pseudotsuga menziesii,yes
+3,ACMA,5.3,,big leaf maple,Acer macrophyllum,yes
+3,ACMA,6.1,,big leaf maple,Acer macrophyllum,yes
+4,THPL,28.8,,western redcedar,Thuja plicata,yes
+4,ACMA,32.1,,big leaf maple,Acer macrophyllum,yes
+4,PSME,119.4,,Douglas fir,Pseudotsuga menziesii,yes
+4,THPL,15,,western redcedar,Thuja plicata,yes
+4,THPL,22,,western redcedar,Thuja plicata,yes
+5,ACMA,19.1,,big leaf maple,Acer macrophyllum,yes
+5,ACMA,38,,big leaf maple,Acer macrophyllum,yes
+5,ACMA,6,,big leaf maple,Acer macrophyllum,yes
+5,ACMA,7,,big leaf maple,Acer macrophyllum,yes
+5,ACMA,99.2,,big leaf maple,Acer macrophyllum,yes
+6,ACMA,20.9,,big leaf maple,Acer macrophyllum,yes
+6,TSHE,23.9,,western hemlock,Tsuga heterophylla,yes
+6,ACMA,132.2,,big leaf maple,Acer macrophyllum,yes
+6,ACMA,101.8,,big leaf maple,Acer macrophyllum,yes
+6,PRLA,0.5,,cherry laurel,Prunus laurocerasus,no
+7,THPL,86.5,,western redcedar,Thuja plicata,yes
+7,ALRU,55.7,,red alder,Alnus rubra,yes
+7,ILAQ,4.2,,English holly,Ilex aquifolium,no
+7,ILAQ,2.4,,English holly,Ilex aquifolium,no
+7,ILAQ,2,,English holly,Ilex aquifolium,no
+7,ILAQ,1.8,,English holly,Ilex aquifolium,no
+7,ILAQ,0.8,,English holly,Ilex aquifolium,no
+8,ILAQ,0.5,,English holly,Ilex aquifolium,no
+8,SOAU,1.8,,rowan,Sorbus aucuparia,no
+8,THPL,5,,western redcedar,Thuja plicata,yes
+9,ACMA,105.5,,big leaf maple,Acer macrophyllum,yes
+9,TSHE,12.2,,western hemlock,Tsuga heterophylla,yes
+9,ACMA,69.5,,big leaf maple,Acer macrophyllum,yes
+9,ACMA,28.8,,big leaf maple,Acer macrophyllum,yes
+10,PSME,93.8,,Douglas fir,Pseudotsuga menziesii,yes
+10,TSHE,25,,western hemlock,Tsuga heterophylla,yes
+10,ILAQ,0.5,,English holly,Ilex aquifolium,no
+10,ILAQ,0.5,,English holly,Ilex aquifolium,no
+10,ILAQ,1.8,,English holly,Ilex aquifolium,no
+10,ILAQ,1,,English holly,Ilex aquifolium,no
+11,THPL,81.5,,western redcedar,Thuja plicata,yes
+11,THPL,49.3,,western redcedar,Thuja plicata,yes
+12,THPL,72.8,,western redcedar,Thuja plicata,yes
+12,ILAQ,1,,English holly,Ilex aquifolium,no
+12,ILAQ,0.5,,English holly,Ilex aquifolium,no
+12,ILAQ,3,,English holly,Ilex aquifolium,no
+12,ILAQ,3.5,,English holly,Ilex aquifolium,no
+12,ACMA,21.2,,big leaf maple,Acer macrophyllum,yes
+12,ACMA,16.1,,big leaf maple,Acer macrophyllum,yes
+12,ILAQ,0.5,,English holly,Ilex aquifolium,no
+12,ILAQ,0.5,,English holly,Ilex aquifolium,no
+12,ILAQ,2,,English holly,Ilex aquifolium,no
+13,THPL,39.1,,western redcedar,Thuja plicata,yes
+13,THPL,128.5,,western redcedar,Thuja plicata,yes
+14,PSME,68.9,,Douglas fir,Pseudotsuga menziesii,yes
+14,ALRU,48.2,,red alder,Alnus rubra,yes
+14,PSME,22.7,,Douglas fir,Pseudotsuga menziesii,yes
+15,PSME,14,,Douglas fir,Pseudotsuga menziesii,yes
+15,ACMA,30,,big leaf maple,Acer macrophyllum,yes
+15,PSME,19.3,,Douglas fir,Pseudotsuga menziesii,yes
+15,PSME,77.4,,Douglas fir,Pseudotsuga menziesii,yes
+15,PSME,79.5,,Douglas fir,Pseudotsuga menziesii,yes
+16,THPL,111.5,,western redcedar,Thuja plicata,yes
+16,ACMA,31.7,,big leaf maple,Acer macrophyllum,yes
+17,ACMA,72,,big leaf maple,Acer macrophyllum,yes
+17,PSME,2.8,,Douglas fir,Pseudotsuga menziesii,yes
+17,PSME,1.8,,Douglas fir,Pseudotsuga menziesii,yes
+17,PSME,1.8,,Douglas fir,Pseudotsuga menziesii,yes
+17,TSHE,16.4,,western hemlock,Tsuga heterophylla,yes
+17,TSHE,21.7,,western hemlock,Tsuga heterophylla,yes
+17,PSME,3,,Douglas fir,Pseudotsuga menziesii,yes
+18,THPL,124.2,,western redcedar,Thuja plicata,yes
+18,PSME,28,,Douglas fir,Pseudotsuga menziesii,yes
+19,TSHE,65.9,,western hemlock,Tsuga heterophylla,yes
+19,TSHE,58.9,,western hemlock,Tsuga heterophylla,yes
+19,ACMA,1.4,,big leaf maple,Acer macrophyllum,yes
+19,TSHE,10,,western hemlock,Tsuga heterophylla,yes
+20,THPL,89,,western redcedar,Thuja plicata,yes
+20,ACMA,49.8,,big leaf maple,Acer macrophyllum,yes
+20,ALRU,31.5,,red alder,Alnus rubra,yes
+20,ALRU,36.4,,red alder,Alnus rubra,yes
+21,THPL,3.3,,western redcedar,Thuja plicata,yes
+21,THPL,2.8,,western redcedar,Thuja plicata,yes
+21,THPL,2.6,,western redcedar,Thuja plicata,yes
+21,THPL,2,,western redcedar,Thuja plicata,yes
+22,PSME,93.5,,Douglas fir,Pseudotsuga menziesii,yes
+22,ACMA,58.2,,big leaf maple,Acer macrophyllum,yes
+23,THPL,60.7,,western redcedar,Thuja plicata,yes
+23,THPL,62.2,,western redcedar,Thuja plicata,yes
+23,THPL,19.4,,western redcedar,Thuja plicata,yes
+23,THPL,106.5,,western redcedar,Thuja plicata,yes
+23,THPL,27.8,,western redcedar,Thuja plicata,yes
+23,THPL,93.8,,western redcedar,Thuja plicata,yes
+24,THPL,101.6,,western redcedar,Thuja plicata,yes
+25,THPL,85,,western redcedar,Thuja plicata,yes
+25,THPL,33,,western redcedar,Thuja plicata,yes
+26,THPL,137.5,,western redcedar,Thuja plicata,yes
+27,THPL,77.5,,western redcedar,Thuja plicata,yes
+27,ABGR,103.5,,grand fir,Abies grandis,yes
+27,ACMA,10.5,,big leaf maple,Acer macrophyllum,yes
+27,ACMA,88.2,,big leaf maple,Acer macrophyllum,yes
+28,THPL,74.1,,western redcedar,Thuja plicata,yes
+28,THPL,73.9,,western redcedar,Thuja plicata,yes
+28,THPL,114.2,,western redcedar,Thuja plicata,yes
+29,PSME,109.2,,Douglas fir,Pseudotsuga menziesii,yes
+29,PSME,71.5,,Douglas fir,Pseudotsuga menziesii,yes
+30,ACMA,9.8,,big leaf maple,Acer macrophyllum,yes
+30,ACMA,7.5,,big leaf maple,Acer macrophyllum,yes
+31,PSME,52.4,,Douglas fir,Pseudotsuga menziesii,yes
+31,THPL,22.3,,western redcedar,Thuja plicata,yes
+31,THPL,66.1,,western redcedar,Thuja plicata,yes
+31,THPL,64.4,,western redcedar,Thuja plicata,yes
+32,THPL,80,,western redcedar,Thuja plicata,yes
+32,ACMA,12.5,,big leaf maple,Acer macrophyllum,yes
+32,ACMA,32.2,,big leaf maple,Acer macrophyllum,yes
+32,ARME,63,,madrona,Arbutus menziesii,yes
+33,ACMA,46.3,,big leaf maple,Acer macrophyllum,yes
+34,ACMA,113,,big leaf maple,Acer macrophyllum,yes
+34,PRAV,2,,bird cherry,Prunus avium,no
+34,PRAV,1,,bird cherry,Prunus avium,no
+35,THPL,88.9,,western redcedar,Thuja plicata,yes
+35,CONU,5.5,,Pacific dogwood,Cornus nuttallii,yes
+35,CONU,3.6,,Pacific dogwood,Cornus nuttallii,yes
+36,ACMA,73.6,,big leaf maple,Acer macrophyllum,yes

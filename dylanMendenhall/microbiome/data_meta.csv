@@ -1,0 +1,37 @@
+plot_id,date,latitude,longitude,accuracy,slope,aspect,slope_position,canopy,notes,treatment,location
+1,2020-08-27,47.577132,-122.4015246,2.8,18,260,middle,>75,Schmitz!,healthy,Schmitz Preserve Park
+2,2020-08-27,47.5767305,-122.400938,2.8,25,258,middle,>75,Stream through plot; close to Stevens St social trail,healthy,Schmitz Preserve Park
+3,2020-08-27,47.5751799,-122.3993733,3.2,39,340,upper,>75,Close to knoll on 52nd Ave social trail; Thuja plicata planted seedlings,healthy,Schmitz Preserve Park
+4,2020-08-27,47.5748419,-122.3986675,4.3,78,306,upper,>75,,healthy,Schmitz Preserve Park
+5,2020-08-27,47.57227335,-122.3980674,4.6,24,264,valley,>75,Gully,healthy,Schmitz Preserve Park
+6,2020-08-28,47.571971,-122.398204,3.2,50,268,lower,>75,Some holly,healthy,Schmitz Preserve Park
+7,2020-08-28,47.5719428,-122.3987296,2.8,52,62,upper,50-75,"Holly, European ash",healthy,Schmitz Preserve Park
+8,2020-08-28,47.5715556,-122.3996867,2.8,36,347,lower,50-75,"Despite canopy gap, very dark b/c overload Coryllus cornuta",healthy,Schmitz Preserve Park
+9,2020-08-28,47.5735585,-122.4008821,2.4,27,272,upper,>75,"Plateau, mixed deciduous/conifer",healthy,Schmitz Preserve Park
+10,2020-08-28,47.5729344,-122.4014542,2.8,20,352,upper,50-75,SW corner of park,healthy,Schmitz Preserve Park
+11,2020-08-28,47.57336233,-122.4024558,2.8,8,11,summit,>75,,healthy,Schmitz Preserve Park
+12,2020-08-28,47.57392365,-122.4023048,3.2,5,331,summit,>75,,healthy,Schmitz Preserve Park
+13,2020-09-01,47.55893487,-122.2524688,2.8,12,334,upper,>75,Seward! A symptomatic fern in plot ,healthy,Seward Park
+14,2020-09-01,47.5588552,-122.254034,3.2,7,273,upper,>75,"1 dead fern, 1 symptomatic",healthy,Seward Park
+15,2020-09-01,47.5585374,-122.2545197,2.8,35,217,upper,>75,2 symptomatic ferns in plot; redwood near edge; Arbutus menziesii near,healthy,Seward Park
+16,2020-09-01,47.5572037,-122.2530727,2.4,20,229,middle,>75,many symptomatic ferns nearby (< 3 m),healthy,Seward Park
+17,2020-09-01,47.559809,-122.2512881,3.2,10,307,summit,>75,patch of dead ferns adjacent,healthy,Seward Park
+18,2020-09-01,47.55883177,-122.2522396,3.2,8,312,summit,>75,some dead and symptomatic ferns in plot,healthy,Seward Park
+19,2020-09-03,47.55727477,-122.2508061,2.4,20,102,upper,>75,some holly,healthy,Seward Park
+20,2020-09-03,47.55714835,-122.2503183,2.8,24,84,middle,>75,alder in plot,healthy,Seward Park
+21,2020-09-03,47.55812785,-122.2485412,2.4,19,35,middle,>75,holly,healthy,Seward Park
+22,2020-09-03,47.5590642,-122.2508628,2.4,15,10,upper,>75,symptomatic ferns in plot (hue),healthy,Seward Park
+23,2020-09-03,47.5582555,-122.2514923,3.2,3,66,summit,>75,,healthy,Seward Park
+24,2020-09-03,47.557225,-122.251453,2.8,6,179,summit,>75,holly,healthy,Seward Park
+25,2020-09-08,47.5532863,-122.2506275,3.2,4,202,summit,>75,many dead or symptomatic ferns in plot; near trail; some restoration planting in plot,symptomatic,Seward Park
+26,2020-09-08,47.5537384,-122.2495806,2.8,15,93,upper,>75,many dead and symptomatic ferns; holly,symptomatic,Seward Park
+27,2020-09-08,47.5542507,-122.2492448,2.8,35,92,middle,>75,several dead Coryllus cornuta; many dead ferns; trail through plot,symptomatic,Seward Park
+28,2020-09-08,47.55533365,-122.2480647,2.8,20,85,middle,>75,several dead Thuja plicata nearby; many dead and symptomatic ferns in plot,symptomatic,Seward Park
+29,2020-09-08,47.55485885,-122.2512203,2.8,25,306,upper,>75,many dead and symptomatic ferns; dead Coryllus cornuta nearby,symptomatic,Seward Park
+30,2020-09-08,47.555032,-122.252405,2.4,13,230,upper,>75,many dead and symptomatic ferns in plot,symptomatic,Seward Park
+31,2020-09-10,47.55411623,-122.2517485,2.8,8,226,upper,>75,dead and symptomatic ferns in plot,symptomatic,Seward Park
+32,2020-09-10,47.55547723,-122.2535891,2.4,23,277,middle,>75,most ferns have crispate pinnae,symptomatic,Seward Park
+33,2020-09-10,47.559498,-122.2521105,2.4,14,329,middle,>75,symptomatic ferns in plot; canopy gap,symptomatic,Seward Park
+34,2020-09-10,47.5607382,-122.253108,2.8,7,8,upper,>75,near big redwood tree; Polystichum andersonii in plot,symptomatic,Seward Park
+35,2020-09-10,47.5607756,-122.2508312,2.4,9,20,upper,>75,Coryllus cornuta in plot,symptomatic,Seward Park
+36,2020-09-10,47.5599854,-122.2499546,2.8,32,58,middle,>75,dead Coryllus cornuta in plot; many dead or symptomatic ferns in plot; near Thuja plicata and Pseudotsuga menziesii,symptomatic,Seward Park

@@ -1,0 +1,42 @@
+data_ferns.csv,
+plot_id,plot number
+fronds_young,number of living fronds that emerged in 2020
+fronds_old,number of living fronds that emerged prior to 2020
+fronds_total,total number of fronds
+fronds_ratio,ratio of new to old fronds as a fraction (new/old)
+notes,miscellaneous notes
+,
+data_meta.csv,
+plot_id,plot number
+date,date of survey
+latitude,latitude in decimal degree format
+longitude,longitude in decimal degree format
+accuracy,horizontal accuracy of latitude and longitude; unit = meter
+slope,slope; unit = percent slope (rise/run)
+aspect,aspect; unit = degree
+slope_position,slope position
+canopy,canopy cover estimate in 25% intervals; unit = percentage
+notes,miscellaneous notes
+treatment,experimental group
+location,name of park
+,
+data_trees.csv,
+plot_id,plot number
+sp_code,binomial species code; format uses the first two letters of the genus followed by the first two letters of the species
+dbh,bole diameter at 1.4 m above the ground; unit = centimeter
+notes,miscellaneous notes
+species_common,common name of the species
+species_scientific,scientific name of the species
+native,native status of species (yes/no)
+,
+data_understory.csv,
+plot_id,plot number
+sp_code,binomial species code; format uses the first two letters of the genus followed by the first two letters of the species
+cover_class,cover class using a modified Braun-Blanquet cover abundance scale
+notes,miscellaneous notes
+cover_mid,midpoint value of cover class; unit = proportion (0:1)
+cover_min,minimum value of cover class; unit = proportion (0:1)
+cover_max,maximum value of cover class; unit = proportion (0:1)
+species_common,common name of the species
+species_scientific,scientific name of the species
+native,native status of species (yes/no)

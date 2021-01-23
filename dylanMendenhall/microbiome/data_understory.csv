@@ -1,0 +1,303 @@
+plot_id,sp_code,cover_class,notes,cover_mid,cover_min,cover_max,species_common,species_scientific,native
+DM01,POMU,F,,0.625,0.5,0.75,sword fern,Polystichum munitum,yes
+DM01,RUUR,C,,0.1,0.05,0.15,trailing blackberry,Rubus ursinus,yes
+DM01,COCO,E,,0.375,0.25,0.5,beaked hazelnut,Corylus cornuta,yes
+DM01,OECE,D,,0.2,0.15,0.25,osoberry,Oemleria cerasiformis,yes
+DM01,GASH,B,,0.03,0.01,0.05,salal,Gaultheria shallon,yes
+DM01,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM01,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM01,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM01,SARA,B,,0.03,0.01,0.05,red elderberry,Sambucus racemosa,yes
+DM01,RUSP,A,,0.005,0,0.01,salmonberry,Rubus spectabilis,yes
+DM01,DREX,A,,0.005,0,0.01,woodland fern,Dryopteris expansa,yes
+DM02,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM02,OECE,C,,0.1,0.05,0.15,osoberry,Oemleria cerasiformis,yes
+DM02,EQAR,A,,0.005,0,0.01,horsetail,Equisetum arvense,yes
+DM02,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM02,LYAM,A,,0.005,0,0.01,skunk cabbage,Lysichiton americanus,yes
+DM02,ATFI,A,,0.005,0,0.01,lady fern,Athyrium filix-femina,yes
+DM02,RUSP,A,,0.005,0,0.01,salmonberry,Rubus spectabilis,yes
+DM02,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM02,ANGE,A,,0.005,0,0.01,kneeling Angelica,Angelica genuflexa,yes
+DM02,TITR,A,,0.005,0,0.01,foamflower,Tiarella trifoliata,yes
+DM02,DREX,A,,0.005,0,0.01,woodland fern,Dryopteris expansa,yes
+DM03,POMU,G,,0.85,0.75,0.95,sword fern,Polystichum munitum,yes
+DM03,DREX,A,,0.005,0,0.01,woodland fern,Dryopteris expansa,yes
+DM03,RUSP,A,,0.005,0,0.01,salmonberry,Rubus spectabilis,yes
+DM03,URDI,A,,0.005,0,0.01,nettle,Urtica dioica,yes
+DM03,SARA,A,,0.005,0,0.01,red elderberry,Sambucus racemosa,yes
+DM03,OECE,B,,0.03,0.01,0.05,osoberry,Oemleria cerasiformis,yes
+DM03,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM04,POMU,C,,0.1,0.05,0.15,sword fern,Polystichum munitum,yes
+DM04,LAMU,A,,0.005,0,0.01,wall lettuce,Lactuca muralis,no
+DM04,MANE,B,,0.03,0.01,0.05,dwarf Oregon grape,Mahonia nervosa,yes
+DM04,LACO,A,,0.005,0,0.01,nipplewort,Lapsana communis,no
+DM04,HODI,A,,0.005,0,0.01,oceanspray,Holodiscus discolor,yes
+DM04,GASH,B,,0.03,0.01,0.05,salal,Gaultheria shallon,yes
+DM04,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM04,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM05,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM05,RUSP,C,,0.1,0.05,0.15,salmonberry,Rubus spectabilis,yes
+DM05,TEGR,A,,0.005,0,0.01,fringecup,Tellima grandiflora,yes
+DM05,GERO,A,,0.005,0,0.01,herb Robert,Geranium robertianum,no
+DM05,URDI,B,,0.03,0.01,0.05,nettle,Urtica dioica,yes
+DM05,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM05,SARA,A,,0.005,0,0.01,red elderberry,Sambucus racemosa,yes
+DM05,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM06,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM06,ATFI,A,Lady fern,0.005,0,0.01,lady fern,Athyrium filix-femina,yes
+DM06,OECE,C,,0.1,0.05,0.15,osoberry,Oemleria cerasiformis,yes
+DM06,VAPA,A,,0.005,0,0.01,red huckleberry,Vaccinium parvifolium,yes
+DM06,RUSP,B,,0.03,0.01,0.05,salmonberry,Rubus spectabilis,yes
+DM06,HEHE,B,,0.03,0.01,0.05,English ivy,Hedera helix,no
+DM06,RUAR,A,,0.005,0,0.01,Armenian blackberry,Rubus armeniacus,no
+DM06,MANE,B,,0.03,0.01,0.05,dwarf Oregon grape,Mahonia nervosa,yes
+DM07,POMU,H,,0.975,0.95,1,sword fern,Polystichum munitum,yes
+DM07,COCO,D,,0.2,0.15,0.25,beaked hazelnut,Corylus cornuta,yes
+DM07,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM07,RUPA,A,,0.005,0,0.01,thimbleberry,Rubus parviflorus,yes
+DM07,DREX,A,Woodland fern,0.005,0,0.01,woodland fern,Dryopteris expansa,yes
+DM07,RUSP,A,,0.005,0,0.01,salmonberry,Rubus spectabilis,yes
+DM07,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM07,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM07,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM07,DALA,A,Spurge laurel,0.005,0,0.01,spurge laurel,Daphne laureola,no
+DM08,POMU,F,,0.625,0.5,0.75,sword fern,Polystichum munitum,yes
+DM08,ATFI,A,,0.005,0,0.01,lady fern,Athyrium filix-femina,yes
+DM08,HEHE,C,,0.1,0.05,0.15,English ivy,Hedera helix,no
+DM08,DREX,B,,0.03,0.01,0.05,woodland fern,Dryopteris expansa,yes
+DM08,OECE,B,,0.03,0.01,0.05,osoberry,Oemleria cerasiformis,yes
+DM08,TITR,A,,0.005,0,0.01,foamflower,Tiarella trifoliata,yes
+DM08,CIAL,A,,0.005,0,0.01,enchanter's nightshade,Circaea lutetiana,yes
+DM08,SARA,A,,0.005,0,0.01,red elderberry,Sambucus racemosa,yes
+DM08,RUAR,B,,0.03,0.01,0.05,Armenian blackberry,Rubus armeniacus,no
+DM08,GERO,A,,0.005,0,0.01,herb Robert,Geranium robertianum,no
+DM08,RUSP,B,,0.03,0.01,0.05,salmonberry,Rubus spectabilis,yes
+DM08,COCO,H,,0.975,0.95,1,beaked hazelnut,Corylus cornuta,yes
+DM09,POMU,F,,0.625,0.5,0.75,sword fern,Polystichum munitum,yes
+DM09,TROV,A,,0.005,0,0.01,trillium,Trillium ovatum,yes
+DM09,SMTS,A,,0.005,0,0.01,star-flowered false Solomon's seal,Smilacina stellata,yes
+DM09,TRLA,A,,0.005,0,0.01,broad-leaved starflower,Trientalis borealis,yes
+DM09,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM09,MANE,B,,0.03,0.01,0.05,dwarf Oregon grape,Mahonia nervosa,yes
+DM09,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM09,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM09,DREX,A,,0.005,0,0.01,woodland fern,Dryopteris expansa,yes
+DM09,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM09,SYAL,A,,0.005,0,0.01,snowberry,Symphoricarpos albus,yes
+DM09,RILA,A,,0.005,0,0.01,black swamp gooseberry,Ribes lacustre,yes
+DM09,SARA,A,,0.005,0,0.01,red elderberry,Sambucus racemosa,yes
+DM09,HODI,A,,0.005,0,0.01,oceanspray,Holodiscus discolor,yes
+DM09,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM09,VAOV,A,,0.005,0,0.01,evergreen huckleberry,Vaccinium ovatum,yes
+DM09,URDI,A,,0.005,0,0.01,nettle,Urtica dioica,yes
+DM10,POMU,F,,0.625,0.5,0.75,sword fern,Polystichum munitum,yes
+DM10,MANE,B,,0.03,0.01,0.05,dwarf Oregon grape,Mahonia nervosa,yes
+DM10,COCO,E,,0.375,0.25,0.5,beaked hazelnut,Corylus cornuta,yes
+DM10,URDI,A,,0.005,0,0.01,nettle,Urtica dioica,yes
+DM10,HEHE,C,,0.1,0.05,0.15,English ivy,Hedera helix,no
+DM10,VAOV,B,,0.03,0.01,0.05,evergreen huckleberry,Vaccinium ovatum,yes
+DM10,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM10,TEGR,A,,0.005,0,0.01,fringecup,Tellima grandiflora,yes
+DM10,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM10,VAPA,A,,0.005,0,0.01,red huckleberry,Vaccinium parvifolium,yes
+DM10,LAMU,A,,0.005,0,0.01,wall lettuce,Lactuca muralis,no
+DM11,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM11,MANE,C,,0.1,0.05,0.15,dwarf Oregon grape,Mahonia nervosa,yes
+DM11,HEHE,E,,0.375,0.25,0.5,English ivy,Hedera helix,no
+DM11,VAOV,B,,0.03,0.01,0.05,evergreen huckleberry,Vaccinium ovatum,yes
+DM11,ACTR,B,,0.03,0.01,0.05,vanilla leaf,Achlys triphylla,yes
+DM11,LAMU,A,,0.005,0,0.01,wall lettuce,Lactuca muralis,no
+DM11,TRLA,A,,0.005,0,0.01,broad-leaved starflower,Trientalis borealis,yes
+DM11,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM11,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM11,GASH,B,,0.03,0.01,0.05,salal,Gaultheria shallon,yes
+DM11,COCO,A,,0.005,0,0.01,beaked hazelnut,Corylus cornuta,yes
+DM11,ROGY,A,,0.005,0,0.01,baldhip rose,Rosa gymnocarpa,yes
+DM12,POMU,C,,0.1,0.05,0.15,sword fern,Polystichum munitum,yes
+DM12,HEHE,H,,0.975,0.95,1,English ivy,Hedera helix,no
+DM12,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM12,SARA,B,,0.03,0.01,0.05,red elderberry,Sambucus racemosa,yes
+DM12,VAPA,A,,0.005,0,0.01,red huckleberry,Vaccinium parvifolium,yes
+DM12,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM12,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM12,TROV,A,,0.005,0,0.01,trillium,Trillium ovatum,yes
+DM12,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM13,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM13,MANE,D,,0.2,0.15,0.25,dwarf Oregon grape,Mahonia nervosa,yes
+DM13,COCO,B,,0.03,0.01,0.05,beaked hazelnut,Corylus cornuta,yes
+DM13,RUUR,B,,0.03,0.01,0.05,trailing blackberry,Rubus ursinus,yes
+DM13,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM14,POMU,F,,0.625,0.5,0.75,sword fern,Polystichum munitum,yes
+DM14,HODI,A,,0.005,0,0.01,oceanspray,Holodiscus discolor,yes
+DM14,COCO,D,,0.2,0.15,0.25,beaked hazelnut,Corylus cornuta,yes
+DM14,RUUR,C,,0.1,0.05,0.15,trailing blackberry,Rubus ursinus,yes
+DM14,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM14,LOHI,A,,0.005,0,0.01,hairy honeysuckle,Lonicera hispidula,yes
+DM14,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM15,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM15,LOHI,C,,0.1,0.05,0.15,hairy honeysuckle,Lonicera hispidula,yes
+DM15,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM15,COCO,C,,0.1,0.05,0.15,beaked hazelnut,Corylus cornuta,yes
+DM15,MANE,B,,0.03,0.01,0.05,dwarf Oregon grape,Mahonia nervosa,yes
+DM15,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM15,HODI,A,,0.005,0,0.01,oceanspray,Holodiscus discolor,yes
+DM15,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM15,ROGY,A,,0.005,0,0.01,baldhip rose,Rosa gymnocarpa,yes
+DM16,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM16,GASH,D,,0.2,0.15,0.25,salal,Gaultheria shallon,yes
+DM16,MANE,C,,0.1,0.05,0.15,dwarf Oregon grape,Mahonia nervosa,yes
+DM16,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM16,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM17,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM17,MANE,D,,0.2,0.15,0.25,dwarf Oregon grape,Mahonia nervosa,yes
+DM17,TROV,A,,0.005,0,0.01,trillium,Trillium ovatum,yes
+DM17,GERO,A,,0.005,0,0.01,herb Robert,Geranium robertianum,no
+DM17,VAOV,A,,0.005,0,0.01,evergreen huckleberry,Vaccinium ovatum,yes
+DM17,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM17,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM17,ATFI,A,,0.005,0,0.01,lady fern,Athyrium filix-femina,yes
+DM18,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM18,MANE,F,,0.625,0.5,0.75,dwarf Oregon grape,Mahonia nervosa,yes
+DM18,VAOV,C,,0.1,0.05,0.15,evergreen huckleberry,Vaccinium ovatum,yes
+DM18,RUUR,B,,0.03,0.01,0.05,trailing blackberry,Rubus ursinus,yes
+DM18,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM18,COCO,B,,0.03,0.01,0.05,beaked hazelnut,Corylus cornuta,yes
+DM18,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM19,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM19,MANE,C,,0.1,0.05,0.15,dwarf Oregon grape,Mahonia nervosa,yes
+DM19,RUUR,D,,0.2,0.15,0.25,trailing blackberry,Rubus ursinus,yes
+DM19,VAOV,B,,0.03,0.01,0.05,evergreen huckleberry,Vaccinium ovatum,yes
+DM19,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM19,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM19,SYAL,A,,0.005,0,0.01,snowberry,Symphoricarpos albus,yes
+DM20,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM20,VAOV,E,,0.375,0.25,0.5,evergreen huckleberry,Vaccinium ovatum,yes
+DM20,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM20,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM21,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM21,VAOV,D,,0.2,0.15,0.25,evergreen huckleberry,Vaccinium ovatum,yes
+DM21,RUUR,B,,0.03,0.01,0.05,trailing blackberry,Rubus ursinus,yes
+DM21,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM21,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM21,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM21,OECE,B,,0.03,0.01,0.05,osoberry,Oemleria cerasiformis,yes
+DM21,COCO,E,,0.375,0.25,0.5,beaked hazelnut,Corylus cornuta,yes
+DM22,POMU,F,,0.625,0.5,0.75,sword fern,Polystichum munitum,yes
+DM22,GASH,C,,0.1,0.05,0.15,salal,Gaultheria shallon,yes
+DM22,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM22,VAOV,E,,0.375,0.25,0.5,evergreen huckleberry,Vaccinium ovatum,yes
+DM22,RUUR,B,,0.03,0.01,0.05,trailing blackberry,Rubus ursinus,yes
+DM22,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM23,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM23,MANE,F,,0.625,0.5,0.75,dwarf Oregon grape,Mahonia nervosa,yes
+DM23,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM23,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM23,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM24,POMU,G,,0.85,0.75,0.95,sword fern,Polystichum munitum,yes
+DM24,MANE,E,,0.375,0.25,0.5,dwarf Oregon grape,Mahonia nervosa,yes
+DM24,COCO,E,,0.375,0.25,0.5,beaked hazelnut,Corylus cornuta,yes
+DM24,VAOV,C,,0.1,0.05,0.15,evergreen huckleberry,Vaccinium ovatum,yes
+DM24,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM25,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM25,RUUR,D,,0.2,0.15,0.25,trailing blackberry,Rubus ursinus,yes
+DM25,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM25,GASH,B,,0.03,0.01,0.05,salal,Gaultheria shallon,yes
+DM25,COCO,A,,0.005,0,0.01,beaked hazelnut,Corylus cornuta,yes
+DM25,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM25,ACCI,A,planted,0.005,0,0.01,vine maple,Acer circinatum,yes
+DM25,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM26,POMU,C,,0.1,0.05,0.15,sword fern,Polystichum munitum,yes
+DM26,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM26,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM26,BRVU,A,"Unkown grass species, likely Bromus vulgaris",0.005,0,0.01,Columbia brome,Bromus vulgaris,yes
+DM26,LOHI,A,,0.005,0,0.01,hairy honeysuckle,Lonicera hispidula,yes
+DM26,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM26,COCO,A,,0.005,0,0.01,beaked hazelnut,Corylus cornuta,yes
+DM26,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM27,POMU,C,,0.1,0.05,0.15,sword fern,Polystichum munitum,yes
+DM27,MANE,D,,0.2,0.15,0.25,dwarf Oregon grape,Mahonia nervosa,yes
+DM27,COCO,C,,0.1,0.05,0.15,beaked hazelnut,Corylus cornuta,yes
+DM27,BRVU,A,"Unkown grass species, likely Bromus vulgaris",0.005,0,0.01,Columbia brome,Bromus vulgaris,yes
+DM27,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM27,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM28,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM28,COCO,E,,0.375,0.25,0.5,beaked hazelnut,Corylus cornuta,yes
+DM28,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM28,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM29,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM29,ROGY,A,,0.005,0,0.01,baldhip rose,Rosa gymnocarpa,yes
+DM29,COCO,E,,0.375,0.25,0.5,beaked hazelnut,Corylus cornuta,yes
+DM29,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
+DM29,GASH,E,,0.375,0.25,0.5,salal,Gaultheria shallon,yes
+DM29,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM29,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM30,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM30,COCO,F,,0.625,0.5,0.75,beaked hazelnut,Corylus cornuta,yes
+DM30,RUUR,D,,0.2,0.15,0.25,trailing blackberry,Rubus ursinus,yes
+DM30,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM30,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM30,ATFI,A,,0.005,0,0.01,lady fern,Athyrium filix-femina,yes
+DM30,RUSP,C,,0.1,0.05,0.15,salmonberry,Rubus spectabilis,yes
+DM30,GASH,A,,0.005,0,0.01,salal,Gaultheria shallon,yes
+DM31,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM31,GASH,E,,0.375,0.25,0.5,salal,Gaultheria shallon,yes
+DM31,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM31,RUUR,B,,0.03,0.01,0.05,trailing blackberry,Rubus ursinus,yes
+DM31,COCO,C,,0.1,0.05,0.15,beaked hazelnut,Corylus cornuta,yes
+DM31,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM31,MANE,B,,0.03,0.01,0.05,dwarf Oregon grape,Mahonia nervosa,yes
+DM31,VAPA,B,,0.03,0.01,0.05,red huckleberry,Vaccinium parvifolium,yes
+DM31,HODI,A,,0.005,0,0.01,oceanspray,Holodiscus discolor,yes
+DM32,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM32,HEHE,A,,0.005,0,0.01,English ivy,Hedera helix,no
+DM32,MANE,B,,0.03,0.01,0.05,dwarf Oregon grape,Mahonia nervosa,yes
+DM32,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM32,GASH,C,,0.1,0.05,0.15,salal,Gaultheria shallon,yes
+DM32,COCO,B,,0.03,0.01,0.05,beaked hazelnut,Corylus cornuta,yes
+DM32,RUUR,C,,0.1,0.05,0.15,trailing blackberry,Rubus ursinus,yes
+DM32,LOHI,A,,0.005,0,0.01,hairy honeysuckle,Lonicera hispidula,yes
+DM33,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM33,ATFI,E,,0.375,0.25,0.5,lady fern,Athyrium filix-femina,yes
+DM33,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM33,GATR,A,,0.005,0,0.01,sweet-scented bedstraw,Galium triflorum,yes
+DM33,TITR,A,,0.005,0,0.01,foamflower,Tiarella trifoliata,yes
+DM33,STSP,A,,0.005,0,0.01,deer fern,Struthiopteris spicant,yes
+DM33,RUUR,E,,0.375,0.25,0.5,trailing blackberry,Rubus ursinus,yes
+DM33,RULE,B,,0.03,0.01,0.05,blackcap raspberry,Rubus leucodermis,yes
+DM33,OECE,C,,0.1,0.05,0.15,osoberry,Oemleria cerasiformis,yes
+DM33,GERO,A,,0.005,0,0.01,herb Robert,Geranium robertianum,no
+DM33,TEGR,A,,0.005,0,0.01,fringecup,Tellima grandiflora,yes
+DM33,RUSP,A,,0.005,0,0.01,salmonberry,Rubus spectabilis,yes
+DM33,VAPA,A,,0.005,0,0.01,red huckleberry,Vaccinium parvifolium,yes
+DM33,VAOV,A,,0.005,0,0.01,evergreen huckleberry,Vaccinium ovatum,yes
+DM33,POGL,A,,0.005,0,0.01,licorice fern,Polypodium glycyrrhiza,yes
+DM34,POMU,C,,0.1,0.05,0.15,sword fern,Polystichum munitum,yes
+DM34,RUUR,G,,0.85,0.75,0.95,trailing blackberry,Rubus ursinus,yes
+DM34,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM34,GERO,A,,0.005,0,0.01,herb Robert,Geranium robertianum,no
+DM34,URDI,A,,0.005,0,0.01,nettle,Urtica dioica,yes
+DM34,TEGR,A,,0.005,0,0.01,fringecup,Tellima grandiflora,yes
+DM34,ATFI,A,,0.005,0,0.01,lady fern,Athyrium filix-femina,yes
+DM34,POAN,A,,0.005,0,0.01,Anderson's sword fern,Polystichum andersonii,yes
+DM34,EQAR,A,,0.005,0,0.01,horsetail,Equisetum arvense,yes
+DM34,OECE,A,,0.005,0,0.01,osoberry,Oemleria cerasiformis,yes
+DM34,POGL,A,,0.005,0,0.01,licorice fern,Polypodium glycyrrhiza,yes
+DM34,RUPA,A,,0.005,0,0.01,thimbleberry,Rubus parviflorus,yes
+DM34,BRVU,A,"Unkown grass species, likely Bromus vulgaris",0.005,0,0.01,Columbia brome,Bromus vulgaris,yes
+DM34,COCO,C,,0.1,0.05,0.15,beaked hazelnut,Corylus cornuta,yes
+DM34,LACO,A,,0.005,0,0.01,nipplewort,Lapsana communis,no
+DM35,POMU,E,,0.375,0.25,0.5,sword fern,Polystichum munitum,yes
+DM35,COCO,E,,0.375,0.25,0.5,beaked hazelnut,Corylus cornuta,yes
+DM35,RUUR,B,,0.03,0.01,0.05,trailing blackberry,Rubus ursinus,yes
+DM35,LOHI,A,,0.005,0,0.01,hairy honeysuckle,Lonicera hispidula,yes
+DM35,TITR,A,,0.005,0,0.01,foamflower,Tiarella trifoliata,yes
+DM35,OECE,E,,0.375,0.25,0.5,osoberry,Oemleria cerasiformis,yes
+DM35,CADE,A,,0.005,0,0.01,Dewey's sedge,Carex deweyana,yes
+DM35,PTAQ,A,,0.005,0,0.01,bracken fern,Pteridium aquilinum,yes
+DM35,GASH,C,,0.1,0.05,0.15,salal,Gaultheria shallon,yes
+DM35,VIOP,A,likely Viburnum opulus,0.005,0,0.01,European highbush cranberry,Viburnum opulus,no
+DM36,POMU,D,,0.2,0.15,0.25,sword fern,Polystichum munitum,yes
+DM36,MANE,A,,0.005,0,0.01,dwarf Oregon grape,Mahonia nervosa,yes
+DM36,GASH,E,,0.375,0.25,0.5,salal,Gaultheria shallon,yes
+DM36,RUUR,A,,0.005,0,0.01,trailing blackberry,Rubus ursinus,yes
