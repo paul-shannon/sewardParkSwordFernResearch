@@ -4,6 +4,6 @@ Seward Park, Seattle.   An attempt to understand, and perhaps remedy,
 the die-off shown here:
 
 
-![alt tag](https://raw.githubusercontent.com/paul-shannon/igvR/master/docs/igvR-ctcf-vignette-zoomedIn.png)
+![alt tag](https://raw.githubusercontent.com/paul-shannon/sewardParkSwordFernResearch/master/docs/wordFernBeforeAndAfterHatcheryHollow.png)
 
 
