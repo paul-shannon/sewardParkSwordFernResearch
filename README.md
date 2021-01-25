@@ -1,2 +1,9 @@
-# sewardParkSwordFernResearch
-research and reports on (and related to) the sword fern die-off at Seward Park, Seattle.
+# Seward Park Sword Fern Research
+Research and reports on (and related to) the sword fern die-off at
+Seward Park, Seattle.   An attempt to understand, and perhaps remedy,
+the die-off shown here:
+
+
+![alt tag](https://raw.githubusercontent.com/paul-shannon/igvR/master/docs/igvR-ctcf-vignette-zoomedIn.png)
+
+
